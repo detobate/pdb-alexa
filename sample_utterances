@@ -1,0 +1,32 @@
+WhoIs Who is A S {ASN}
+WhoIs Who is A S N {ASN}
+WhoIs Who is {ASN}
+WhoIs Who's A S {ASN}
+WhoIs Who's A S N {ASN}
+WhoIs Who's {ASN}
+WherePeer where {company} peer
+WherePeer where do {company} peer
+WherePeer where {company} pear
+WherePeer where do {company} pear
+WherePeer where {company} pair
+WherePeer where do {company} pair
+WherePeer where {company} pierre
+WherePeer where do {company} pierre
+WherePeer where {company} here
+WherePeer where do {company} here
+WherePeer where are {company}
+WhosAt Who is at {facility}
+WhosAt Who's at {facility}
+WhoPeers Who peers at {IX}
+WhoPeers Who pairs at {IX}
+WhoPeers Who pears at {IX}
+WhoPeers Who's peering at {IX}
+WhoPeers Who's pairing at {IX}
+RouteServers who uses the route servers at {IX}
+RouteServers who uses the root servers at {IX}
+RouteServers who peers with the route servers at {IX}
+RouteServers who peers with the root servers at {IX}
+RouteServers who pairs with the route servers at {IX}
+RouteServers who pairs with the root servers at {IX}
+RouteServers who pears with the route servers at {IX}
+RouteServers who pears with the root servers at {IX}

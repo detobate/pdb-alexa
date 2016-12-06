@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "intent": "WhoIs",
+      "slots": [
+        {
+          "name": "ASN",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "WherePeer",
+      "slots": [
+        {
+          "name": "company",
+          "type": "Companies"
+        }
+      ]
+    },
+    {
+      "intent": "WhosAt",
+      "slots": [
+        {
+          "name": "facility",
+          "type": "Facilities"
+        }
+      ]
+    },
+    {
+      "intent": "WhoPeers",
+      "slots": [
+        {
+          "name": "IX",
+          "type": "IXes"
+        }
+      ]
+    },
+    {
+      "intent": "RouteServers",
+      "slots": [
+        {
+          "name": "IX",
+          "type": "IXes"
+        }
+      ]
+    }
+  ]
+}
