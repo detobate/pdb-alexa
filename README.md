@@ -20,7 +20,7 @@ Alexa Skill Setup:
 Usage Examples:
 ---------------
 
- * Alexa, ask Peering DB, who has AS *ASN*?
- * Alexa, ask Peering DB, where do *ISP* peer?
- * Alexa, ask Peering DB, who peers at *IX*?
+ * Alexa, ask Peering DB, who has AS **ASN**?
+ * Alexa, ask Peering DB, where do **ISP** peer?
+ * Alexa, ask Peering DB, who peers at **IX**?
   
