@@ -120,10 +120,14 @@ def wherePeer(search):
         for entry in results['data']:
             response = response + "<p>" + entry['name'] + "</p>"
     else:
-        response = results['data'][0]['name'] + " peers at"
         if len(results['data'][0]['netixlan_set']) < 1:
+            response = results['data'][0]['name'] + " peers at"
             response = response + "<p>nowhere</p><p>because screw you, we're %s</p>" % results['data'][0]['name']
         else:
+            if len(results['data'][0]['netixlan_set']) > 20:
+                response = "Wow, %s peers a lot. They peer at " % results['data'][0]['name']
+            else:
+                response = results['data'][0]['name'] + " peers at"
             for ix in results['data'][0]['netixlan_set']:
                 response = response + "<p>" + ix['name'] + "</p>"
 
