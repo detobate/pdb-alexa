@@ -11,6 +11,7 @@ AMS-IX Chicago
 AMS-IX Hong Kong
 AMS-IX NY
 APE
+ape
 ASIX6
 AZIX
 Aloha-IX
@@ -113,7 +114,7 @@ Content-IX
 CoreSite - Any2 Boston
 CoreSite - Any2 California
 CoreSite - Any2 Chicago
-CoreSite - Any2 Denver 
+CoreSite - Any2 Denver
 CoreSite - Any2 Miami
 CoreSite - Any2 New York
 CoreSite - Any2 NorthEast
@@ -159,7 +160,8 @@ ECIX-FRA
 ECIX-HAM
 ENLIX
 EPIX.Katowice
-EPIX.Warszawa-KIX
+EPIX.Warszawa
+kix
 ESPANIX Lower
 ESPANIX Lower LAN
 ESPANIX Upper
@@ -304,14 +306,14 @@ KleyReX
 LAAP
 LAIIX
 LGDACOM IX
-LINX LON1
-LINX LON2
-LINX NoVA
+linx nova
+linx lon1
+linx lon2
 LIPTAM
 LIX
 LIX-LV
 LIXP
-LONAP
+lonap
 LU-CIX
 Liberia IX
 Lillix
@@ -535,6 +537,7 @@ TREX
 TSK IX
 TTIX
 TWIX
+twix
 TahoeIX
 TaipeiGigaPoP
 TampaIX
